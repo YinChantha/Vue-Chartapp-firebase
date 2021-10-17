@@ -1,0 +1,25 @@
+body{
+    background: rgb(26, 201, 34);
+    color: rgb(78, 76, 76);
+}
+.container{
+    width: 98%;
+    max-width: 1000px;
+    margin: 80px auto;
+    border-radius: 20px;
+    box-shadow: 2px 4px 6px rgb(228, 228, 228);
+    background: white;
+}
+.error{
+    color: tomato;
+    font-size: 14px;
+}
+button{
+    text-decoration: none;
+    background: rgb(116, 138, 240);
+    color: white;
+    font-weight: bold;
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
